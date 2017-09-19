@@ -6,8 +6,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 
 ## Содержание курса
 ### Вводная лекция. Обзор ресурсов для лингвистических исследований. 
-
-  Презентация (TBA soon)  
+<a href="https://github.com/olesar/hseinstruments/blob/master/Data/1_%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B.pdf">Презентация</a>  
 Д/з: Плунгян В. А. Зачем нужен Национальный корпус русского языка? // Национальный корпус русского языка: 2003—2005. М.: Индрик, 2005, 6—20 (<a href="http://ruscorpora.ru/sbornik2005/02plu.pdf">читать</a>).  
 Записать видео для корпуса Живой русской речи (LiveCorpus), см. <a href="https://github.com/olesar/hseinstruments/blob/master/LiveCorpusGuidelines/LiveCorpus1.pdf">инструкцию</a>. Дедлайн: до вс 17 сентября (3 и 4 группа).
 
@@ -15,10 +14,10 @@ __Учебные ассистенты__: Анастасия Давиденко (
 Д/з: Сделать систему папок в репозитории github. Проверить, что ссылка на личный репозиторий github указана в <a href="https://goo.gl/WUhpHb">списке</a>. К следующему семинару вспомнить / познакомиться с основами HTML (<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Introduction">здесь</a>).
 
 ### 2. <a href="https://github.com/olesar/hseinstruments/blob/master/Day02-HTML.md">Форматы текстовых данных. Работа с HTML/XML</a>  
-Д/з: Личная страничка в HTML.  
+<a href="https://github.com/olesar/hseinstruments/blob/master/Day02-hw.md">Д/з</a>: Личная страничка в HTML.  
 
 ### 3. <a href="https://github.com/olesar/hseinstruments/blob/master/Day03-RNC-1.md">Национальный корпус русского языка - 1</a>
-Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus. Расшифровка видео (первая минута).
+Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). Расшифровка видео (первая минута).
 
 ### 4. <a href="https://github.com/olesar/hseinstruments/blob/master/Day04-Spreadsheets-1.md">Анализ корпусных данных. Работа с таблицами. Сортировки, фильтры, сводные таблицы</a>  
 Д/з: Корпусное мини-исследование.
