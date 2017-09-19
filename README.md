@@ -11,7 +11,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 Записать видео для корпуса Живой русской речи (LiveCorpus), см. <a href="https://github.com/olesar/hseinstruments/blob/master/LiveCorpusGuidelines/LiveCorpus1.pdf">инструкцию</a>. Дедлайн: до вс 17 сентября (3 и 4 группа).
 
 ### 1. <a href="https://github.com/olesar/hseinstruments/blob/master/Day01-GIT.md">Работа с системой контроля версий git</a>  
-Д/з: Сделать систему папок в репозитории github. Проверить, что ссылка на личный репозиторий github указана в <a href="https://goo.gl/WUhpHb">списке</a>. К следующему семинару вспомнить / познакомиться с основами HTML (<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Introduction">здесь</a>).
+Д/з: Сделать систему папок в репозитории github (вот <a href="https://github.com/olesar/hseinstruments/blob/master/Data/KILI_RepositoryFolders.png" target="_blank">такую</a>). Проверить, что ссылка на личный репозиторий github указана в <a href="https://goo.gl/WUhpHb">списке</a>. К следующему семинару вспомнить / познакомиться с основами HTML (<a href="https://developer.mozilla.org/ru/docs/Web/Guide/HTML/Introduction">здесь</a>).
 
 ### 2. <a href="https://github.com/olesar/hseinstruments/blob/master/Day02-HTML.md">Форматы текстовых данных. Работа с HTML/XML</a>  
 <a href="https://github.com/olesar/hseinstruments/blob/master/Day02-hw.md">Д/з</a>: Личная страничка в HTML.  
