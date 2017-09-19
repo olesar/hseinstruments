@@ -140,18 +140,18 @@ XHTML ― язык, основанный на тегах HTML и правила�
 
 4. На сайте GitHub на странице вашего репозитория над списком файлов найдите кнопку, на которой написано "Branch: master", нажмите на неё и в поле "Find or create branch" напишите "gh-pages".
 
-![Куда смотреть](img/gh-pages1.png)
+![Куда смотреть](https://olesar.github.io/KILI/img/gh-pages1.png)
 
 5. Найдите выше вкладку "Settings". Нажав на неё, слева обнаружите список, в котором нужно найти пункт "Branches". Для пользователя user  репозитория principles_of_phonology эта страница будет располагаться по адресу 
 https://github.com/user/principles_of_phonology/settings/branches
 
 6. В разделе "Default branch" в выпадающем списке измените значение "master" на "gh-pages" 
 
-![Куда смотреть](img/gh-pages2.png)
+![Куда смотреть](https://olesar.github.io/KILI/img/gh-pages2.png)
 
 и нажмите "Update".
 
-![Куда смотреть](img/gh-pages3.png)
+![Куда смотреть](https://olesar.github.io/KILI/img/gh-pages3.png)
 
 6. После этого ваша страница будет доступна в браузере по адресу https://user.github.io/principles_of_phonology/
 
@@ -199,3 +199,5 @@ https://github.com/user/principles_of_phonology/settings/branches
 ### Видео о Bootstrap:
 * [Анатомия Bootstrap 3 для начинающих. Урок ](https://www.youtube.com/watch?v=9N88P_CMQh0)
 * [Уроки по Bootstrap 3](https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq)
+
+This page is a fork of https://github.com/nevmenandr/work-web-page-example
