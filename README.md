@@ -22,7 +22,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). Расшифровка видео (первая минута).
 
 ### 4. <a href="https://github.com/olesar/hseinstruments/blob/master/Day04-Spreadsheets-1.md">Анализ корпусных данных. Работа с таблицами. Сортировки, фильтры, сводные таблицы</a>  
-Д/з: Корпусное мини-исследование.
+Д/з: Корпусное мини-исследование: https://github.com/avdavidenko/hseinstruments/blob/master/Day04-hw.md
 
 ### 5. <a href="https://github.com/olesar/hseinstruments/blob/master/Day05-Arranea-Web-Corpora.md">Веб-корпуса (SketchEngine, Arraneum). Коллокации. Совместная встречаемость</a>  
 Д/з: Расшифровка видео (полная). Практикум Arraneum. Выбор группового экзаменационного <a href="">проекта</a>.
