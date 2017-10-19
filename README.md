@@ -25,7 +25,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 Д/з: Корпусное мини-исследование: https://github.com/avdavidenko/hseinstruments/blob/master/Day04-hw.md
 
 ### 5. <a href="https://github.com/olesar/hseinstruments/blob/master/Day05-Arranea-Web-Corpora.md">Веб-корпуса (SketchEngine, Arraneum). Коллокации. Совместная встречаемость</a>  
-Д/з: Расшифровка видео (полная). Практикум Arraneum. Выбор группового экзаменационного <a href="https://github.com/avdavidenko/hseinstruments/blob/master/Projects.md">проекта</a>.
+Д/з: Расшифровка видео (полная). Практикум Arraneum. Выбор группового экзаменационного <a href="https://github.com/olesar/hseinstruments/blob/master/Projects.md">проекта</a>.
 
 ### 6. <a href="https://github.com/olesar/hseinstruments/blob/master/Day06-AntConc.md">Анализ пользовательских корпусов в AntConc. Форматы представления корпусной разметки. Валидация XML</a>  
 Выдача экзаменационного проектного задания  
