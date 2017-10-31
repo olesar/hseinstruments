@@ -21,26 +21,22 @@ __Учебные ассистенты__: Анастасия Давиденко (
 ### 3. <a href="https://github.com/olesar/hseinstruments/blob/master/Day03-RNC-1.md">Национальный корпус русского языка - 1</a>
 Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). Расшифровка видео (первая минута).
 
-### 4. <a href="https://github.com/olesar/hseinstruments/blob/master/Day04-Spreadsheets-1.md">Анализ корпусных данных. Работа с таблицами. Сортировки, фильтры, сводные таблицы</a>  
+### 4-5. <a href="https://github.com/olesar/hseinstruments/blob/master/Day04-Spreadsheets-1.md">Анализ корпусных данных. Работа с таблицами. Сортировки, фильтры, сводные таблицы</a>  
 Д/з: Корпусное мини-исследование: https://github.com/avdavidenko/hseinstruments/blob/master/Day04-hw.md
 
-### 5. <a href="https://github.com/olesar/hseinstruments/blob/master/Day05-Arranea-Web-Corpora.md">Веб-корпуса (SketchEngine, Arraneum). Коллокации. Совместная встречаемость</a>  
-Д/з: Расшифровка видео (полная). Практикум Arraneum. Выбор группового экзаменационного <a href="https://github.com/olesar/hseinstruments/blob/master/Projects.md">проекта</a>.
-
-### 6. <a href="https://github.com/olesar/hseinstruments/blob/master/Day06-AntConc.md">Анализ пользовательских корпусов в AntConc. Форматы представления корпусной разметки. Валидация XML</a>  
-Выдача экзаменационного проектного задания  
-Д/з: Частотный словарь.
+### 6. <a href="https://github.com/olesar/hseinstruments/blob/master/Day05-Arranea-Web-Corpora.md">Веб-корпуса (SketchEngine, Arraneum). Коллокации. Совместная встречаемость</a>  
+Д/з: Выбор группового экзаменационного <a href="https://github.com/olesar/hseinstruments/blob/master/Projects.md">проекта</a>.
 
 ### Защита проекта на экзамене (в конце 1 модуля)
 
-### 7. <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-Disambiguation.md">Морфологическая разметка и дизамбигуация</a>  
+### 7. <a href="https://github.com/olesar/hseinstruments/blob/master/Day06-AntConc.md">Анализ пользовательских корпусов в AntConc. Форматы представления корпусной разметки. Валидация XML</a>  
+Д/з: Расшифровка видео (полная). Частотный словарь (LiveCorpus).
+
+### 8. <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-Disambiguation.md">Морфологическая разметка и дизамбигуация</a>  
 Д/з: Практикум по снятию омонимии.
 
-### 8. <a href="https://github.com/olesar/hseinstruments/blob/master/Day08-RNC-2.md">Национальный корпус русского языка - 2</a>
-Д/з: Практикум по поиску. Разметка ударений и хезитаций (LiveCorpus). 
-
 ### 9. <a href="https://github.com/olesar/hseinstruments/blob/master/Day09-Spreadsheets-2.md">Совмещение информации из таблиц</a>
-Д/з: Добавление информации из электронных словарей и баз данных.
+Д/з: Добавление информации из электронных словарей и баз данных. Разметка ударений и хезитаций (LiveCorpus).
 
 ### 10. <a href="https://github.com/olesar/hseinstruments/blob/master/Day10-Spreadsheets-3.md">Работа с формулами и регулярными выражениями</a>  
 Д/з: Корпусное мини-исследование - 2.
@@ -49,6 +45,9 @@ __Учебные ассистенты__: Анастасия Давиденко (
 Д/з: ELAN
 
 ### 12. <a href="https://github.com/olesar/hseinstruments/blob/master/Day12-LiveCorpus-data.md">Итоговая сдача материалов LiveCorpus. Оценка качества разметки корпуса</a>  
+
+### \[CANCELLED. <a href="https://github.com/olesar/hseinstruments/blob/master/Day08-RNC-2.md">Национальный корпус русского языка - 2</a>
+Д/з: Практикум по поиску. \]
 
 
 В разработке программы и материалов курса принимали участие О. Н. Ляшевская, С. Ю. Толдова, Т. А. Архангельский, Б. В. Орехов, Е. Кузьменко, Э. Мустакимова, Е. Грамматчикова, а также учебные ассистенты разных лет.  
