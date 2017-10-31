@@ -30,9 +30,9 @@ __Учебные ассистенты__: Анастасия Давиденко (
 ### Защита проекта на экзамене (в конце 1 модуля)
 
 ### 7. <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-AntConc.md">Анализ пользовательских корпусов в AntConc. Форматы представления корпусной разметки. Валидация XML</a>  
-Д/з: Расшифровка видео (полная).  <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-AntConc.md">Частотный словарь</a> (файлы LiveCorpus и др.).
+Д/з: Расшифровка видео (полная).  <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-AntConc-hw.md">Частотный словарь</a> (файлы LiveCorpus и др.).
 
-### 8. <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-Disambiguation.md">Морфологическая разметка и дизамбигуация</a>  
+### 8. <a href="https://github.com/olesar/hseinstruments/blob/master/Day08-Disambiguation.md">Морфологическая разметка и дизамбигуация</a>  
 Д/з: Практикум по снятию омонимии.
 
 ### 9. <a href="https://github.com/olesar/hseinstruments/blob/master/Day09-Spreadsheets-2.md">Совмещение информации из таблиц</a>
