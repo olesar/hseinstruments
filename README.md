@@ -19,7 +19,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 <a href="https://github.com/olesar/hseinstruments/blob/master/Day02-hw.md">Д/з</a>: Личная страничка в HTML.  
 
 ### 3. <a href="https://github.com/olesar/hseinstruments/blob/master/Day03-RNC-1.md">Национальный корпус русского языка - 1</a>
-Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). Расшифровка видео (первая минута).
+Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). [Расшифровка видео]() (первая минута).
 
 ### 4-5. <a href="https://github.com/olesar/hseinstruments/blob/master/Day04-Spreadsheets-1.md">Анализ корпусных данных. Работа с таблицами. Сортировки, фильтры, сводные таблицы</a>  
 Д/з: Корпусное мини-исследование: https://github.com/avdavidenko/hseinstruments/blob/master/Day04-hw.md
@@ -36,7 +36,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 Д/з: Практикум по снятию омонимии.
 
 ### 9. <a href="https://github.com/olesar/hseinstruments/blob/master/Day09-Spreadsheets-2.md">Совмещение информации из таблиц</a>
-Д/з: Добавление информации из электронных словарей и баз данных. Разметка ударений и хезитаций (LiveCorpus).
+Д/з: Добавление информации из электронных словарей и баз данных. [Разметка ударений](https://github.com/olesar/hseinstruments/blob/master/Day09-hw-acc.md) и хезитаций (LiveCorpus).
 
 ### 10. <a href="https://github.com/olesar/hseinstruments/blob/master/Day10-Spreadsheets-3.md">Работа с формулами и регулярными выражениями</a>  
 Д/з: Корпусное мини-исследование - 2.
