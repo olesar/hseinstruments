@@ -19,7 +19,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 <a href="https://github.com/olesar/hseinstruments/blob/master/Day02-hw.md">Д/з</a>: Личная страничка в HTML.  
 
 ### 3. <a href="https://github.com/olesar/hseinstruments/blob/master/Day03-RNC-1.md">Национальный корпус русского языка - 1</a>
-Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). [Расшифровка видео]() (первая минута).
+Д/з: Поиск в НКРЯ. Метаразметка материалов LiveCorpus (проверить, что все правильно). [Расшифровка видео](https://github.com/olesar/hseinstruments/blob/master/Day03-hw-Transcript.md) (первая минута).
 
 ### 4-5. <a href="https://github.com/olesar/hseinstruments/blob/master/Day04-Spreadsheets-1.md">Анализ корпусных данных. Работа с таблицами. Сортировки, фильтры, сводные таблицы</a>  
 Д/з: Корпусное мини-исследование: https://github.com/avdavidenko/hseinstruments/blob/master/Day04-hw.md
@@ -30,7 +30,7 @@ __Учебные ассистенты__: Анастасия Давиденко (
 ### Защита проекта на экзамене (в конце 1 модуля)
 
 ### 7. <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-AntConc.md">Анализ пользовательских корпусов в AntConc. Форматы представления корпусной разметки. Валидация XML</a>  
-Д/з: Расшифровка видео (полная).  <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-AntConc-hw.md">Частотный словарь</a> (файлы LiveCorpus и др.).
+Д/з: [Расшифровка видео](https://github.com/olesar/hseinstruments/blob/master/Day03-hw-Transcript.md) (полная).  <a href="https://github.com/olesar/hseinstruments/blob/master/Day07-AntConc-hw.md">Частотный словарь</a> (файлы LiveCorpus и др.).
 
 ### 8. <a href="https://github.com/olesar/hseinstruments/blob/master/Day08-Disambiguation.md">Морфологическая разметка и дизамбигуация</a>  
 Д/з: Практикум по снятию омонимии.
