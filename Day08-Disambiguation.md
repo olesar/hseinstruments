@@ -1,7 +1,7 @@
 # disambiguator
 [текст](http://hseinstruments.wikispaces.com/file/view/grant_lundberg.zip/459862652/grant_lundberg.zip)
 
-[программа](https://yadi.sk/d/J4r60xFs5nJ2g)
+[программа для дизамбигуации](https://yadi.sk/d/1cXQSm1q3PUNpJ), [программа с модулем разметки](https://yadi.sk/d/J4r60xFs5nJ2g)
 
 # Морфологическая разметка и дизамбигуация текстов
 
