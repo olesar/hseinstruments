@@ -5,7 +5,7 @@
 Что понадобится: Текстовый редактор NotePad++.
 NB: Владельцы Mac-ов используют аналоги: редакторы TextWrangler или Fraise
 
-## 1. Файл для работы - [dovlatov2.txt](http://hseinstruments.wikispaces.com/file/view/dovlatov2.txt/452225060/dovlatov2.txt)
+## 1. Файл для работы - [dovlatov2.txt](http://hseinstruments.wikispaces.com/file/view/dovlatov2.txt/622086285/dovlatov2.txt)
 
 Откройте файл с помощью NotePad++ (в проводнике контекстное меню Открыть с помощью...)
 
