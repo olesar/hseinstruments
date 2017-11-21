@@ -38,8 +38,8 @@ __Учебные ассистенты__: Анастасия Давиденко (
 ### 9. <a href="https://github.com/olesar/hseinstruments/blob/master/Day09-Spreadsheets-2.md">Совмещение информации из таблиц</a>
 Д/з: Добавление информации из электронных словарей и баз данных. [Разметка ударений](https://github.com/olesar/hseinstruments/blob/master/Day09-hw-acc.md) и хезитаций (LiveCorpus).
 
-### 10. <a href="https://github.com/olesar/hseinstruments/blob/master/Day10-Spreadsheets-3.md">Работа с формулами и регулярными выражениями</a>  
-Д/з: Корпусное мини-исследование - 2.
+### 10. <a href="https://github.com/olesar/hseinstruments/blob/master/Day10_RegExp.md">Работа с формулами и регулярными выражениями</a>  
+Д/з: <a href="https://github.com/olesar/hseinstruments/blob/master/Day10-Spreadsheets-3.md">Корпусное мини-исследование - 2</a>.
 
 ### 11. <a href="https://github.com/olesar/hseinstruments/blob/master/Day11-ELAN.md">Разметка мультимедийных корпусов в ELAN</a>  
 Д/з: ELAN
