@@ -53,7 +53,7 @@
 ### 4. Импортируйте типы слоев из шаблона [LiveCorpus_template](http://hseinstruments.wikispaces.com/file/detail/LiveCorpus_template_1speaker.etf) 
 * Type -- Import...
 
-### 5. Переименуйте слои в вашей аннотации по образцу Валера@text, Наташа@text, присвойте им тип Paragraph.  
+### 5. Переименуйте слои в вашей аннотации по образцу Валера@text, Наташа@text, присвойте им тип Paragraph   
 * Tier -- Change Tier Attributes...  
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_change_tier.png" width="400" />
 
@@ -63,4 +63,11 @@
 Вот так в результате выглядит мой файл:  
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN4.png" width="800" />
 
-### 7. В конце работы сохраните проект, загрузите .eaf файл в папку LiveCorpus вашего репозитория. 
+### 7. Токенизируйте каждый текстовый слой (необязательное задание)   
+* Перейдите в режим аннотации (Option -- Annotation)  
+* Для каждого говорящего создайте новый слой вида ...@word, связанный с родительским слоем ...@text отношением subdivision:  
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_new_tier.png" width="400" />
+* Токенизируйте каждый слой (подробности [тут](http://www.mpi.nl/corpus/html/elan/ch05s10.html) ).  
+* Выставлять временные метки для каждого слова не нужно.  
+
+### 8. В конце работы сохраните проект, загрузите .eaf файл в папку LiveCorpus вашего репозитория. 
