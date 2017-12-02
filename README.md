@@ -41,8 +41,8 @@ __Учебные ассистенты__: Анастасия Давиденко (
 ### 10. <a href="https://github.com/olesar/hseinstruments/blob/master/Day10_RegExp.md">Работа с формулами и регулярными выражениями</a>  
 Д/з: <a href="https://github.com/olesar/hseinstruments/blob/master/Day10-Spreadsheets-3.md">Корпусное мини-исследование - 2</a>.
 
-### 11. <a href="https://github.com/olesar/hseinstruments/blob/master/Day11-ELAN.md">Разметка мультимедийных корпусов в ELAN</a>  
-Д/з: ELAN
+### 11. <a href="https://github.com/olesar/hseinstruments/blob/master/Day11-ELAN.md">Разметка мультимедийных корпусов в системе ELAN</a>  
+Д/з: <a href="https://github.com/olesar/hseinstruments/blob/master/Day11-ELAN-hw.md">Разметка файла LiveCorpus в ELAN</a>
 
 ### 12. <a href="https://github.com/olesar/hseinstruments/blob/master/Day12-LiveCorpus-data.md">Итоговая сдача материалов LiveCorpus. Оценка качества разметки корпуса</a>  
 
