@@ -5,6 +5,9 @@
 ### 1. Уберите в файле транскрипции все xml теги  
 * Создайте копию файла (например, rockclub2.txt -- Сохранить как -- rockclub3.txt)
 * Удалите все теги в угловых скобках (регулярное выражение для замены: <.*?> )  
+
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/TextWrangler_delete_tags.png" width="300" />
+
 Было:
 ```
 Валера@ Ну <distinct form="чё">что</distinct> их читать-то <distinct form="вапще">вообще</distinct>?
@@ -19,8 +22,9 @@
 
 * Разбейте файл на реплики (минимальные диалогические единицы), ориентируясь на точку, `!`, `?` или знаки `\\` в вашей транскрипции. В начале каждой реплики должна идти метка говорящего.  
 Используйте регулярные выражения для замены, чтобы сохранять метку говорящего в начале строки.
-```
-```
+
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/TextWrangler_split_utterances.png" width="500" />
+
 * Поправьте деление на реплики там, где вам кажется нужным.
 
 Было:  
@@ -43,11 +47,13 @@
 ### 2. В ELAN создайте новый проект (File -- New), привяжите к нему файл с вашей видео- (или аудио-) записью.  
 
 ### 3. Импортируйте текстовый файл в проект (File -- Import -- CSV/Tab-delimited file)  
-* Как вы догадываетесь, теперь метка говорящего будет представлять имя слоя, а реплика -- аннотацию ELAN-а.  
-* Укажите параметры импорта:
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_import_csv.png" width="400" />
 
-Теперь ваш проект выглядит так:
+* Как вы догадываетесь, теперь метка говорящего будет представлять имя слоя, а реплика -- аннотацию ELAN-а.  
+* Укажите параметры импорта:
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_import_csv1.png" width="600" />
+
+Теперь проект должен выглядеть так:
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN3.png" />
 
 ### 4. Импортируйте типы слоев из шаблона [LiveCorpus_template](http://hseinstruments.wikispaces.com/file/detail/LiveCorpus_template_1speaker.etf) 
@@ -59,6 +65,7 @@
 
 ### 6. Перейдите в режим Выделения аннотаций и измените время начала и конца каждой реплики согласно времени звучания в записи.
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_segmentation_mode.png" width="700" />
+
 * Чтобы сдвинуть реплику, активируйте слой, в котором она располагается (двойным кликом на имени слоя) и двигайте мышкой саму реплику влево-вправа или ее границы.  
 Вот так в результате выглядит мой файл:  
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN4.png" width="800" />
@@ -67,7 +74,8 @@
 * Перейдите в режим аннотации (Option -- Annotation)  
 * Для каждого говорящего создайте новый слой вида ...@word, связанный с родительским слоем ...@text отношением subdivision:  
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_new_tier.png" width="400" />
-* Токенизируйте каждый слой (подробности [тут](http://www.mpi.nl/corpus/html/elan/ch05s10.html) ).  
+
+* Токенизируйте каждый слой: Tier -- Tokenize tier... Подробности [тут](http://www.mpi.nl/corpus/html/elan/ch05s10.html).  
 * Выставлять временные метки для каждого слова не нужно.  
 
 ### 8. В конце работы сохраните проект, загрузите .eaf файл в папку LiveCorpus вашего репозитория. 
