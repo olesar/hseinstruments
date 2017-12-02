@@ -6,7 +6,7 @@
 * Создайте копию файла (например, rockclub2.txt -- Сохранить как -- rockclub3.txt)
 * Удалите все теги в угловых скобках (регулярное выражение для замены: <.*?> )  
 
-<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/TextWrangler_delete_tags.png" width="300" />
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/TextWrangler_delete_tags.png" width="400" />
 
 Было:
 ```
@@ -24,8 +24,6 @@
 Используйте регулярные выражения для замены, чтобы сохранять метку говорящего в начале строки.
 
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/TextWrangler_split_utterances.png" width="500" />
-
-* Поправьте деление на реплики там, где вам кажется нужным.
 
 Было:  
 ```
@@ -68,14 +66,21 @@
 
 * Чтобы сдвинуть реплику, активируйте слой, в котором она располагается (двойным кликом на имени слоя) и двигайте мышкой саму реплику влево-вправа или ее границы.  
 Вот так в результате выглядит мой файл:  
+
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN4.png" width="800" />
+
+* Если вы хотите объединить две аннотации в одну (сделать единую реплику):  
+** выделите аннотацию, Right Click -- Merge with Next Annotation /Ctrl+A/ (или Merge with Previous Annotation /Ctrl+B/)
+
+* Если вы хотите разделить аннотацию на две: наведите мышкой на точку разбиения и Right Click -- Split Annotation 
 
 ### 7. Токенизируйте каждый текстовый слой (необязательное задание)   
 * Перейдите в режим аннотации (Option -- Annotation)  
 * Для каждого говорящего создайте новый слой вида ...@word, связанный с родительским слоем ...@text отношением subdivision:  
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_new_tier.png" width="400" />
 
-* Токенизируйте каждый слой: Tier -- Tokenize tier... Подробности [тут](http://www.mpi.nl/corpus/html/elan/ch05s10.html).  
-* Выставлять временные метки для каждого слова не нужно.  
+* Токенизируйте каждый слой: Tier -- Tokenize tier... Подробности [тут](http://www.mpi.nl/corpus/html/elan/ch05s10.html).   
+
+* Выставлять временные метки для каждого слова не нужно.   
 
 ### 8. В конце работы сохраните проект, загрузите .eaf файл в папку LiveCorpus вашего репозитория. 
