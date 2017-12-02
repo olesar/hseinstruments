@@ -45,8 +45,7 @@
 ### 3. Импортируйте текстовый файл в проект (File -- Import -- CSV/Tab-delimited file)  
 * Как вы догадываетесь, теперь метка говорящего будет представлять имя слоя, а реплика -- аннотацию ELAN-а.  
 * Укажите параметры импорта:
-```
-```
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_import_csv.png" width="400" />
 
 Теперь ваш проект выглядит так:
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN3.png" />
@@ -56,10 +55,12 @@
 
 ### 5. Переименуйте слои в вашей аннотации по образцу Валера@text, Наташа@text, присвойте им тип Paragraph.  
 * Tier -- Change Tier Attributes...  
-<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_change_tier.png" width="700" />
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_change_tier.png" width="400" />
 
 ### 6. Перейдите в режим Выделения аннотаций и измените время начала и конца каждой реплики согласно времени звучания в записи.
 <img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN_segmentation_mode.png" width="700" />
-
+* Чтобы сдвинуть реплику, активируйте слой, в котором она располагается (двойным кликом на имени слоя) и двигайте мышкой саму реплику влево-вправа или ее границы.  
+Вот так в результате выглядит мой файл:  
+<img src="https://github.com/olesar/hseinstruments/blob/master/FIGURES/ELAN4.png" width="800" />
 
 ### 7. В конце работы сохраните проект, загрузите .eaf файл в папку LiveCorpus вашего репозитория. 
