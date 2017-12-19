@@ -1,10 +1,18 @@
-## Задача
+# Форматы данных и их валидация
 
-Исправить возможные ошибки расшифровки, чтобы её можно было загрузить в [корпус](http://ruscorpora.ru/search-murco.html)
+## Текстовые форматы. Markup languages.
+* txt  
+* scv  
+** tsv - tab-separated  
+* rtf (текстовый сконвертированный формат для .doc, .xls, .ppt)  
+* html  
+* xml  
+* json  
+* protobuf  
 
 ## Что делать?
 
-* Находите свою расшифровку -- <https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/tree/master/transcripts_xml>
+* Берете файл xml.  
 
 * Копируете её в валидатор -- <http://codebeautify.org/xmlvalidator>. Смотрите, какие в вашем XML нашлись ошибки:
 
