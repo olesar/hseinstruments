@@ -52,5 +52,6 @@
 https://support.google.com/docs#topic=2811806
 
 ## Полезные советы по работе с n-граммами
-* Если n-граммы представляют собой цепочки словоформ, их можно лемматизировать. Воспользуйтесь, например, программой MyStem (http://web-corpora.net/wsgi/mystemplus.wsgi/mystemplus/tagger/mystem/). [Скриншот](https://olesar.github.io/KILI/img/Mystem1.png)
+* Если n-граммы представляют собой цепочки словоформ, их можно лемматизировать. Воспользуйтесь, например, программой MyStem (http://web-corpora.net/wsgi/mystemplus.wsgi/mystemplus/tagger/mystem/) ( [Скриншот](https://olesar.github.io/KILI/img/Mystem1.png) ) 
+или [UDPipe](http://lindat.mff.cuni.cz/services/udpipe/) (модель Russian SynTagRus)    
 * Получив лемматизированные разборы, вы можете "достать" из них леммы, например, вставив их обратно в таблицу эксель и воспользовавшись функцией "Текст по столбцам" (сначала разбейте строку по пробелу, затем - по фигурной скобке).
