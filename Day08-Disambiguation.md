@@ -21,7 +21,7 @@
 
 ## Стандарты разметки: примеры
 
-C7 tagset (Corpus of Spoken English) -- набор тегов
+C5 tagset (British National Corpus) -- набор тегов
 
     Perdita&NN1-NP0; ,&PUN; covering&VVG; the&AT0; bottom&NN1; of&PRF; the&AT0; lorries&NN2; with&PRP; straw&NN1; to&TO0;
     protect&VVI; the&AT0; ponies&NN2; '&POS; feet&NN2; ,&PUN; suddenly&AV0; heard&VVD-VVN; Alejandro&NN1-NP0;
